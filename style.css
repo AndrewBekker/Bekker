@@ -1,0 +1,18 @@
+p {
+    display: block;
+    text-transform: uppercase;
+    font-size: larger;
+    text-align: center;
+}
+
+div {
+    display: block;
+    background-color:blueviolet;
+    
+    
+}
+
+body {
+    background-color: aqua;
+    
+}
